@@ -1,0 +1,23 @@
+{
+  "name": "searchjob",
+  "version": "1.0.0",
+  "description": "Program is design to help posting online that your looking for work and does a bunch e-mails to companies and recuiter that your searching for work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "searchjob",
+    "jobs",
+    "work",
+    "bot",
+    "jobpost"
+  ],
+  "author": "Ernie Cho",
+  "license": "ISC",
+  "dependencies": {
+    "everyauth": "^0.4.9",
+    "gmail-send": "^1.2.13",
+    "twit": "^2.2.9"
+  }
+}
